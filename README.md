@@ -5,8 +5,8 @@ This project aims to perform geographical analysis of pincodes within the state 
 
 ## Project Structure
 - **`Haryana.geojson`**: GeoJSON file containing the geographical boundaries of Haryana.
-- **`data.csv`**: CSV file containing latitude and longitude data of pincodes in Haryana.
-- **`analysis.py`**: Python script for data preprocessing, k-means clustering implementation, and visualization.
+- **`clustering_data.csv`**: CSV file containing information about various states.
+- **`classification.ipynb`**: Jupyter Notebook for data preprocessing, k-means clustering implementation, and visualization.
 - **`README.md`**: This file, providing an overview of the project, instructions, and insights.
 
 ## Dependencies
