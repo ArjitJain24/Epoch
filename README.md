@@ -20,5 +20,5 @@ This project aims to perform geographical analysis of pincodes within the state 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/geo-analysis-haryana.git
-   cd geo-analysis-haryana
+   [git clone https://github.com/ArjitJain24/Epoch.git
+   cd Epoch
