@@ -16,9 +16,3 @@ This project aims to perform geographical analysis of pincodes within the state 
   - numpy
   - geopandas
   - matplotlib
-
-## Usage
-1. Clone the repository:
-   ```bash
-   [git clone https://github.com/ArjitJain24/Epoch.git
-   cd Epoch
